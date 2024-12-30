@@ -19,7 +19,7 @@
 
 <div class="super_container">
 	
-	<!-- Header -->q
+	<!-- Header -->
 	<header class="header">
 		<div class="container">
 			<div class="row">
